@@ -74,3 +74,7 @@ Data/Product Analyst 💼 | Python | SQL | Product Thinking
 📧 gayathrip248@email.com  
 🌐 LinkedIn: www.linkedin.com/in/gayathrip7
 
+Or view the full notebook on Kaggle 👉 [View on Kaggle](https://www.kaggle.com/code/gayathri137/01-product-user-analysis/edit)
+
+[![Kaggle](https://img.shields.io/badge/Kaggle-Notebook-blue?logo=kaggle)](https://www.kaggle.com/code/gayathri137/01-product-user-analysis/edit)
+
