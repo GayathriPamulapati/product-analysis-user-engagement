@@ -1,4 +1,3 @@
-# product-analysis-user-engagement
 # 📊 Product Analysis – User Engagement on E-Commerce Platform
 
 This project simulates a **product analytics case** for a digital investment platform like E-Trade. Using real user behavior data, it explores how users interact with features, where they drop off, and how often they return.
@@ -64,4 +63,14 @@ This project simulates a **product analytics case** for a digital investment pla
 Clone the repo and open the notebook:
 
 ```bash
-git clone https://github.com/yourusername/product-analysis-user-engagement.git
+git clone https://github.com/GayathriPamulapati/product-analysis-user-engagement.git
+
+---
+
+## 📌 Author
+
+**Gayathri Pamulapati**  
+Data/Product Analyst 💼 | Python | SQL | Product Thinking  
+📧 gayathrip248@email.com  
+🌐 LinkedIn: www.linkedin.com/in/gayathrip7
+
