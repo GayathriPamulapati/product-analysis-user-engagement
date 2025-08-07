@@ -71,7 +71,7 @@ git clone https://github.com/GayathriPamulapati/product-analysis-user-engagement
 
 **Gayathri Pamulapati**  
 Data/Product Analyst 💼 | Python | SQL | Product Thinking  
-📧 gayathrip248@email.com  
-🌐 [LinkedIn] (www.linkedin.com/in/gayathrip7)
+gayathrip248@email.com  
+[LinkedIn](www.linkedin.com/in/gayathrip7)
 
 👉 [View on Kaggle](https://www.kaggle.com/code/gayathri137/01-product-user-analysis)
