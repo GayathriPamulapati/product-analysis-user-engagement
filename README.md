@@ -60,7 +60,7 @@ This project simulates a **product analytics case** for a digital investment pla
 
 ## 📌 Author
 
-Gayathri Pamulapati
+**Gayathri Pamulapati**
 Data/Product Analyst 💼 | Python | SQL | Product Thinking  
 gayathrip248@email.com  
 [Linkedin](www.linkedin.com/in/gayathrip7)
